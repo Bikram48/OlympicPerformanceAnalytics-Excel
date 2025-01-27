@@ -87,3 +87,27 @@ The **Dashboard** brings together all the pivot charts to provide a cohesive and
 This dashboard provides a complete overview of the Olympic medal and performance insights, enabling better data-driven analysis.
 
 ![Dashboard](screenshots/dashboard.png)
+
+Here’s how you can write the insights section for your README file:
+
+---
+
+## Insights
+
+Based on the analysis of the Olympic dataset, the following key insights were observed:
+
+1. **Top Countries by Medals**:
+
+   - The United States leads the overall medal count, making it the top-performing country in Olympic history.
+
+2. **Most Popular Sport**:
+
+   - Athletics is the most popular sports category based on the number of medals won by athletes across all countries.
+
+3. **Medals by Age Group**:
+
+   - Athletes in the age group of **20-29** have won the highest number of medals, indicating this age range as the peak performance period for Olympians.
+
+4. **Medal Trends of Top Countries Over Time**:
+   - In the year **1896**, top-performing countries began with low medal counts due to the limited number of sports events at the time.
+   - The United States showed an **exponential growth** compared to other nations in medal counts, peaking in year **1904** .
