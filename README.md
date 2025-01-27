@@ -88,10 +88,6 @@ This dashboard provides a complete overview of the Olympic medal and performance
 
 ![Dashboard](screenshots/dashboard.png)
 
-Here’s how you can write the insights section for your README file:
-
----
-
 ## Insights
 
 Based on the analysis of the Olympic dataset, the following key insights were observed:
